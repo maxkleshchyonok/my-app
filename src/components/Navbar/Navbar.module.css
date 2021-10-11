@@ -1,0 +1,28 @@
+.nav{
+    grid-area: n;
+    background-color: #ff8b76;
+    padding: 20px;
+    width: 150px;
+    height: 400px;
+    }
+    
+.item a{
+    color: #007b00;
+    font-style: italic;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.item a.activeLink{
+    font-size: 30px ;
+}
+
+.friends{
+    margin-top: 100px;
+    padding-left: 35px;
+    font-size: 20px;
+}
+
+.friends a{
+    padding-left: 0px;
+}

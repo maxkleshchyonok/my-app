@@ -1,0 +1,17 @@
+.content{
+    grid-area: c;
+    background-color: #ffcc51;
+    } 
+    
+.content img{
+    height: 200px;
+    width: 900px;
+}   
+
+.bgcolor{
+    background-color: #ffcc51;
+}
+
+.fontColor{
+    color: #007b00
+}

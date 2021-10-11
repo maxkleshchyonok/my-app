@@ -1,0 +1,28 @@
+    .dialogs{
+        display: grid;
+        grid-template-columns: 2fr 10fr 20fr;
+        background-color: #ffcc51;
+        color: #007b00;
+        font-size: 20px;
+        font-style: italic;
+    }
+
+    .dialogsItems{
+        padding: 10px;
+    }
+
+    .dialogsItems a{
+        color: red;
+        text-decoration: none;
+    }
+
+
+    .messages{
+        padding: 10px;
+    }
+
+    .messages .message{
+
+    }
+
+    

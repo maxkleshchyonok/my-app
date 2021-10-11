@@ -1,0 +1,35 @@
+.friends{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    background-color: #ffcc51;
+    color: #007b00;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.friendsItems{
+    padding: 10px;
+}
+
+.friendsItems a{
+    padding: 10px;
+    line-height: 55px;
+    text-decoration: none;
+    color: #007b00;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.friends img{
+        width: 50px;
+        height: 50px;
+        border-radius: 30px;
+        margin-bottom: 10px;
+}
+
+.fritem{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    
+}

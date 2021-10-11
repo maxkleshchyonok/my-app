@@ -1,0 +1,19 @@
+.userPhoto{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+.content{
+    color: #007b00;
+    font-style: italic;
+    font-size: 20px;
+    font-style: italic;
+    background-color: #ffcc51;
+}
+.selectedPage{
+   color: #ff8b76;
+   font-weight: bolder;
+}
+.pages{
+    cursor: pointer;
+}
