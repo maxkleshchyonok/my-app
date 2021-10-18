@@ -10,10 +10,3 @@
     font-style: italic;
     background-color: #ffcc51;
 }
-.selectedPage{
-   color: #ff8b76;
-   font-weight: bolder;
-}
-.pages{
-    cursor: pointer;
-}
